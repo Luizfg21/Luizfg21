@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](file:///home/escola/Downloads/258170a7-06d2-49dc-9469-60def82bae9f.webp)
+![](![b73e4c7d-1136-46cb-bfed-b1eca7800309](https://github.com/user-attachments/assets/a1af4c7b-82e8-467d-bd9e-b329be7f5b75)
+)
