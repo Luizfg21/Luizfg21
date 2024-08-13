@@ -1,4 +1,5 @@
 Opa esse é o meu perfil, em que vou postar meu projetos, qualquer dúvida ou sugestão entre em contato comigo.
+![c387f712-9340-4922-86d3-c7d4b5ca6fec](https://github.com/user-attachments/assets/74634129-129b-4bf4-aa9a-5bb7109eb9c9)
 
 <!--
 **Luizfg21/Luizfg21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](![b73e4c7d-1136-46cb-bfed-b1eca7800309](https://github.com/user-attachments/assets/a1af4c7b-82e8-467d-bd9e-b329be7f5b75)
-)
