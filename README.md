@@ -1,4 +1,9 @@
-Opa esse é o meu perfil, em que vou postar meu projetos, qualquer dúvida ou sugestão entre em contato comigo.
+Boas vindas ao meu perfil 💙💙 Meu nome é nome sobrenome
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫 Insta: luizfelipeganassini
 ![b8bf1ef1-3bfb-4524-9df4-6525176f4671](https://github.com/user-attachments/assets/3fe51f3c-a15e-4fe9-b420-380cf2471bfb)
 
 
