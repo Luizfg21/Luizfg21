@@ -1,5 +1,6 @@
 Opa esse é o meu perfil, em que vou postar meu projetos, qualquer dúvida ou sugestão entre em contato comigo.
-![c387f712-9340-4922-86d3-c7d4b5ca6fec](https://github.com/user-attachments/assets/74634129-129b-4bf4-aa9a-5bb7109eb9c9)
+![b8bf1ef1-3bfb-4524-9df4-6525176f4671](https://github.com/user-attachments/assets/3fe51f3c-a15e-4fe9-b420-380cf2471bfb)
+
 
 <!--
 **Luizfg21/Luizfg21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
